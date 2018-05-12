@@ -1,0 +1,31 @@
+_repo: The-War-After-the-War_18380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marcosson, Isaac Frederick
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '7988'
+    url: http://www.gutenberg.org/2009/agents/7988
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18380'
+  lccn: '17006755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Hughes, William Morris, 1864-1952'
+- !lcsh 'Lloyd George, David, 1863-1945'
+- !lcsh 'World War, 1914-1918 -- Economic aspects'
+title: The War After the War
+url: http://www.gutenberg.org/ebooks/18380
