@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7988
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Frederick_Marcosson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18380#The-War-After-the-War
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-05-12'
 gutenberg_type: Text
